@@ -1,8 +1,9 @@
-const CACHE_NAME = 'tetris-zen-v1';
+const CACHE_NAME = 'tetris-zen-v2';
 const ASSETS = [
   './',
   './index.html',
-  './manifest.webmanifest'
+  './manifest.webmanifest',
+  './sw.js'
 ];
 
 self.addEventListener('install', (event) => {

@@ -2,7 +2,7 @@
   "name": "Тетрис Дзен",
   "short_name": "Тетрис",
   "description": "Бесконечный дзен-режим тетриса без роста скорости",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#040a14",
   "theme_color": "#040a14",
