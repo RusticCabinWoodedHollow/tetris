@@ -1,0 +1,18 @@
+{
+  "name": "Тетрис Дзен",
+  "short_name": "Тетрис",
+  "description": "Бесконечный дзен-режим тетриса без роста скорости",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#040a14",
+  "theme_color": "#040a14",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://image.qwenlm.ai/generated-images/43ebd01a-0a3b-4a62-92d7-d9cb46324a01/_result.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
