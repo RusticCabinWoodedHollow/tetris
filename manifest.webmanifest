@@ -9,6 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
+      "src": "icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
       "src": "https://image.qwenlm.ai/generated-images/43ebd01a-0a3b-4a62-92d7-d9cb46324a01/_result.png",
       "sizes": "512x512",
       "type": "image/png",
